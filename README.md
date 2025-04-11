@@ -24,3 +24,7 @@ If you still encounter problems installing Pygame, head over to the official Pyg
 Navigate to the latest version of SpellingPlatformer (Version 3) and extract the ZIP file.
 Inside the ZIP file, click on the “SchoolPygame” folder and run the “main.py” file. 
 You can run this file within any code editor like Visual Studio Code to play with variables ect.
+
+# More
+
+Game Documentation: https://docs.google.com/document/d/1sNRnrnC_YvXDe1TEqozpW2fIAzBOEspVT8uZBapyZf4/edit?
